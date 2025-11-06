@@ -1,3 +1,3 @@
-# planning-poker
+# ws-learn
 
-Planning Poker is an application where group deicision-making about the difficulty of a given topic is gamified via picking cards.
+Learning websockets with a chat application tutorial.
